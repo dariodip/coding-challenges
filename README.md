@@ -1,4 +1,4 @@
-# Codinig Challenges
+# Coding Challenges
 
 In this repository I will publish my solutions for some coding challenges.
 
