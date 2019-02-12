@@ -11,7 +11,7 @@ Each file name represents the number of the problem (i.e. `1.py` stands for **Pr
 
 Currenly I am only developing solutions with Python but I'd like to try it out with other programming languages (e.g. Go, Haskell, JavaScript, etc).
 
-The solutions I am providing are most focused on elegance and readability but I will provide solutions focused on efficiency. Solutions focused on efficiency will have the following filename pattern: `eff<#>` where `<#>` is the number of the problem.
+Solutions I am providing are most focused on elegance and readability but I will provide solutions focused on efficiency. Solutions focused on efficiency will have the following filename pattern: `eff<#>` where `<#>` is the number of the problem.
 
 ## Project Euler
 ### My Solutions
@@ -22,4 +22,4 @@ Each file name represents the ID of the problem (i.e. `1.py` stands for **Proble
 
 Currenly I am only developing solutions with Python but I'd like to try it out with other programming languages (e.g. Go, Haskell, JavaScript, etc).
 
-The solutions I am providing are most focused on elegance and readability but I will provide solutions focused on efficiency. Solutions focused on efficiency will have the following filename pattern: `eff<#>` where `<#>` is the ID of the problem.
+Solutions I am providing are most focused on elegance and readability but I will provide solutions focused on efficiency. Solutions focused on efficiency will have the following filename pattern: `eff<#>` where `<#>` is the ID of the problem.
