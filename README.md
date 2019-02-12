@@ -1,6 +1,6 @@
-# Code Challenges
+# Coding Challenges
 
-In this repository I will publish my solutions for some code challenges.
+In this repository I will publish my solutions for some coding challenges.
 
 ## Daily Coding Problem
 ### My Solutions
